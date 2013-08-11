@@ -1,0 +1,10 @@
+F:\VS2010 Projects\MarbleMazeSource\Ex2-Polishing\End\MarbleMazePipeline\bin\x86\Debug\MarbleMazePipeline.dll
+F:\VS2010 Projects\MarbleMazeSource\Ex2-Polishing\End\MarbleMazePipeline\bin\x86\Debug\MarbleMazePipeline.pdb
+F:\VS2010 Projects\MarbleMazeSource\Ex2-Polishing\End\MarbleMazePipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VS2010 Projects\MarbleMazeSource\Ex2-Polishing\End\MarbleMazePipeline\obj\x86\Debug\MarbleMazePipeline.dll
+F:\VS2010 Projects\MarbleMazeSource\Ex2-Polishing\End\MarbleMazePipeline\obj\x86\Debug\MarbleMazePipeline.pdb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\MarbleMazePipeline\bin\x86\Debug\MarbleMazePipeline.dll
+F:\GitHub\Game-Board\Solutions\MarbleMaze\MarbleMazePipeline\bin\x86\Debug\MarbleMazePipeline.pdb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\MarbleMazePipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\GitHub\Game-Board\Solutions\MarbleMaze\MarbleMazePipeline\obj\x86\Debug\MarbleMazePipeline.dll
+F:\GitHub\Game-Board\Solutions\MarbleMaze\MarbleMazePipeline\obj\x86\Debug\MarbleMazePipeline.pdb

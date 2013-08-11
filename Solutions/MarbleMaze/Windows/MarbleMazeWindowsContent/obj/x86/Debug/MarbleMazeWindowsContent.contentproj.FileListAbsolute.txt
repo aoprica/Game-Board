@@ -1,0 +1,2 @@
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindowsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindowsContent\obj\x86\Debug\ResolveAssemblyReference.cache

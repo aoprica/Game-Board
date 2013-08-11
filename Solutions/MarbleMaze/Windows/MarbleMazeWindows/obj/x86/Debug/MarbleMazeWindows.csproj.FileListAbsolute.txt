@@ -1,0 +1,64 @@
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Models\marble.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Models\maze1.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\bridge.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\bridge_bump.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\bridge_opacitymask.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\cliff_sides.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\floor_section1.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\floor_section2.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\instructions.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\Marble.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\rocklevel1.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\topwall_color.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\walllevel1.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\Backgrounds\blank.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Images\titleScreen.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Sounds\Checkpoint.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Sounds\MarbleFall.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Sounds\MarbleHit.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\Sounds\MarbleRoll.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\textures\walllevel1_0.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\textures\floor_section1_0.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\textures\bridge_0.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\textures\floor_section2_0.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\textures\topwall_color_0.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\Content\textures\cliff_sides_0.xnb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\MarbleMazeWindows.exe
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\bin\x86\Debug\MarbleMazeWindows.pdb
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\obj\x86\Debug\MarbleMazeWindows.exe
+F:\VS2010 Projects\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\MarbleMazeWindows\obj\x86\Debug\MarbleMazeWindows.pdb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Models\marble.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Models\maze1.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\bridge.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\bridge_bump.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\bridge_opacitymask.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\cliff_sides.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\floor_section1.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\floor_section2.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\instructions.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\Marble.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\rocklevel1.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\topwall_color.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\walllevel1.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\Backgrounds\blank.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Images\titleScreen.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Sounds\Checkpoint.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Sounds\MarbleFall.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Sounds\MarbleHit.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Sounds\MarbleRoll.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\walllevel1_0.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\floor_section1_0.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\bridge_0.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\floor_section2_0.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\topwall_color_0.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\cliff_sides_0.xnb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\MarbleMazeWindows.exe
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\MarbleMazeWindows.pdb
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\obj\x86\Debug\MarbleMazeWindows.exe
+F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\obj\x86\Debug\MarbleMazeWindows.pdb

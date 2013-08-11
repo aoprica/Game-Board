@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\MenuFont.spritefont</Source>
+      <Name>Fonts\MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Fonts\MenuFont.xnb</Output>
+      <Time>2013-08-09T16:36:53.7477213-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\marble.FBX</Source>
+      <Name>Models\marble</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>MarbleMazeProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Models\marble.xnb</Output>
+      <Time>2013-08-09T16:37:07.2110675-04:00</Time>
+      <Dependency>
+        <Key>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\obj\x86\Debug\Models\marble_0.xml</Key>
+        <Value>2013-08-11T08:09:24.9282812-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\maze1.FBX</Source>
+      <Name>Models\maze1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>MarbleMazeProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Models\maze1.xnb</Output>
+      <Time>2013-08-09T16:37:07.226069-04:00</Time>
+      <Dependency>
+        <Key>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\obj\x86\Debug\Models\maze1_0.xml</Key>
+        <Value>2013-08-11T08:09:25.2262514-04:00</Value>
+      </Dependency>
+      <Request>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\walllevel1_0.xnb</Request>
+      <Request>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\floor_section1_0.xnb</Request>
+      <Request>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\bridge_0.xnb</Request>
+      <Request>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\floor_section2_0.xnb</Request>
+      <Request>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\topwall_color_0.xnb</Request>
+      <Request>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\cliff_sides_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\bridge.png</Source>
+      <Name>Textures\bridge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\bridge.xnb</Output>
+      <Time>2013-08-09T16:37:21.3214784-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bridge_bump.png</Source>
+      <Name>Textures\bridge_bump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\bridge_bump.xnb</Output>
+      <Time>2013-08-09T16:37:21.347481-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bridge_opacitymask.png</Source>
+      <Name>Textures\bridge_opacitymask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\bridge_opacitymask.xnb</Output>
+      <Time>2013-08-09T16:37:21.3794842-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\cliff_sides.png</Source>
+      <Name>Textures\cliff_sides</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\cliff_sides.xnb</Output>
+      <Time>2013-08-09T16:37:21.3934856-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\floor_section1.png</Source>
+      <Name>Textures\floor_section1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\floor_section1.xnb</Output>
+      <Time>2013-08-09T16:37:21.4444907-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\floor_section2.png</Source>
+      <Name>Textures\floor_section2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\floor_section2.xnb</Output>
+      <Time>2013-08-09T16:37:21.5014964-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\instructions.png</Source>
+      <Name>Textures\instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\instructions.xnb</Output>
+      <Time>2013-08-09T16:37:21.5234986-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Marble.jpg</Source>
+      <Name>Textures\Marble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\Marble.xnb</Output>
+      <Time>2013-08-09T16:37:21.5385001-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\rocklevel1.png</Source>
+      <Name>Textures\rocklevel1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\rocklevel1.xnb</Output>
+      <Time>2013-08-09T16:37:21.5625025-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\topwall_color.png</Source>
+      <Name>Textures\topwall_color</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\topwall_color.xnb</Output>
+      <Time>2013-08-09T16:37:21.577504-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\walllevel1.png</Source>
+      <Name>Textures\walllevel1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\walllevel1.xnb</Output>
+      <Time>2013-08-09T16:37:21.6005063-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Backgrounds\blank.png</Source>
+      <Name>Textures\Backgrounds\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Textures\Backgrounds\blank.xnb</Output>
+      <Time>2013-08-09T16:37:33.5749054-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\titleScreen.png</Source>
+      <Name>Images\titleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Images\titleScreen.xnb</Output>
+      <Time>2013-08-09T16:38:14.7606666-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Checkpoint.wav</Source>
+      <Name>Sounds\Checkpoint</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Sounds\Checkpoint.xnb</Output>
+      <Time>2013-08-09T16:38:23.9448294-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MarbleFall.wav</Source>
+      <Name>Sounds\MarbleFall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Sounds\MarbleFall.xnb</Output>
+      <Time>2013-08-09T16:38:23.9708242-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MarbleHit.wav</Source>
+      <Name>Sounds\MarbleHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Sounds\MarbleHit.xnb</Output>
+      <Time>2013-08-09T16:38:23.9878208-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MarbleRoll.wav</Source>
+      <Name>Sounds\MarbleRoll</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\Sounds\MarbleRoll.xnb</Output>
+      <Time>2013-08-09T16:38:23.9978188-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\marble.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\obj\x86\Debug\Models\marble_0.xml</Output>
+      <Time>2013-08-09T16:37:07.2110675-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\maze1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\obj\x86\Debug\Models\maze1_0.xml</Output>
+      <Time>2013-08-09T16:37:07.226069-04:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\walllevel1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\walllevel1_0.xnb</Output>
+      <Time>2013-08-09T16:37:21.6005063-04:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\floor_section1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\floor_section1_0.xnb</Output>
+      <Time>2013-08-09T16:37:21.4444907-04:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\bridge.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\bridge_0.xnb</Output>
+      <Time>2013-08-09T16:37:21.3214784-04:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\floor_section2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\floor_section2_0.xnb</Output>
+      <Time>2013-08-09T16:37:21.5014964-04:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\topwall_color.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\topwall_color_0.xnb</Output>
+      <Time>2013-08-09T16:37:21.577504-04:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\cliff_sides.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\textures\cliff_sides_0.xnb</Output>
+      <Time>2013-08-09T16:37:21.3934856-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{562AB34A-16A2-4748-A1BB-7DE8C7529E17}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindowsContent\</RootDirectory>
+      <LoggerRootDirectory>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\GitHub\Game-Board\Solutions\MarbleMaze\Windows\MarbleMazeWindows\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>F:\GitHub\Game-Board\Solutions\MarbleMaze\MarbleMazePipeline\bin\x86\Debug\MarbleMazePipeline.dll</Key>
+        <Value>2013-08-08T03:13:30.6088931-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-08-07T05:35:37.0435719-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
