@@ -1,3 +1,6 @@
 # Visual Studio User config files
 
 *.suo
+
+# 
+*.bak

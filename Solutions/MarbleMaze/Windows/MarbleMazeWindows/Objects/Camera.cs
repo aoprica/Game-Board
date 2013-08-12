@@ -42,8 +42,11 @@ namespace MarbleMazeGame
         public Matrix Projection { get; set; }
         public Matrix View { get; set; }
 
-        readonly Vector3 cameraPositionOffset = new Vector3(0, 450, 100);
-        readonly Vector3 cameraTargetOffset = new Vector3(0, 0, -50);
+        public Vector3 CameraPositionOffset;
+        public Vector3 CameraTargetOffset;
+
+        readonly Vector3 defaultCameraPositionOffset = new Vector3(0, 450, 100);
+        readonly Vector3 defaultTargetOffset = new Vector3(0, 0, -50);
         #endregion
 
         #region Initializtion
@@ -59,8 +62,12 @@ namespace MarbleMazeGame
         public override void Initialize()
         {
             // Create the projection matrix
-            Projection = Matrix.CreatePerspectiveFieldOfView(MathHelper.ToRadians(75), 
+            Projection = Matrix.CreatePerspectiveFieldOfView(MathHelper.ToRadians(75),
                 graphicsDevice.Viewport.AspectRatio, 1, 10000);
+
+            CameraPositionOffset = this.defaultCameraPositionOffset;
+
+            CameraTargetOffset = this.defaultTargetOffset;
 
             base.Initialize();
         }
@@ -74,9 +81,9 @@ namespace MarbleMazeGame
         public override void Update(GameTime gameTime)
         {
             // Make the camera follow the object
-            position = ObjectToFollow + cameraPositionOffset;
+            position = ObjectToFollow + CameraPositionOffset;
 
-            target = ObjectToFollow + cameraTargetOffset;
+            target = ObjectToFollow + CameraTargetOffset;
 
             // Create the view matrix
             View = Matrix.CreateLookAt(position, target, Vector3.Up);
@@ -84,5 +91,15 @@ namespace MarbleMazeGame
             base.Update(gameTime);
         }
         #endregion Update
+
+        public void Zoom(int zoomValue)
+        {
+            this.CameraPositionOffset += new Vector3(0, zoomValue, 0);
+
+            if (this.CameraPositionOffset.Y < this.defaultCameraPositionOffset.Y)
+                this.CameraPositionOffset = this.defaultCameraPositionOffset;
+            else if (this.CameraPositionOffset.Y > 2000)
+                this.CameraPositionOffset.Y = 2000;
+        }
     }
 }

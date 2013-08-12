@@ -52,6 +52,8 @@ namespace MarbleMazeGame
         public new bool IsActive = true;
         readonly float angularVelocity = MathHelper.ToRadians(1.5f);
         KeyboardState oldKeyState;
+        MouseState oldMouseState;
+        int oldMouseWheelValue;
 
         SpriteFont timeFont;
 
@@ -155,6 +157,7 @@ namespace MarbleMazeGame
             }
 
             var newKeyState = Keyboard.GetState();
+            var newMouseState = Mouse.GetState();
 
             if (IsActive && !startScreen)
             {
@@ -213,7 +216,17 @@ namespace MarbleMazeGame
                                 maze.Rotation.X = max;
                         }
                     }
+
+                    if (newMouseState.ScrollWheelValue != oldMouseWheelValue)
+                    {
+                        var diff = newMouseState.ScrollWheelValue - oldMouseWheelValue;
+                        camera.Zoom(diff);
+
+                        oldMouseWheelValue = newMouseState.ScrollWheelValue;
+                    }
                 }
+
+                oldKeyState = newKeyState;
             }
         }
 
