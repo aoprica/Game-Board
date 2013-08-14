@@ -1,0 +1,12 @@
+F:\GitHub\Game-Board\Solutions\SkinnedSample\BetterSkinned\bin\x86\Debug\Content\Victoria-hat-tpose.xnb
+F:\GitHub\Game-Board\Solutions\SkinnedSample\BetterSkinned\bin\x86\Debug\Content\Victoria-hat-dance.xnb
+F:\GitHub\Game-Board\Solutions\SkinnedSample\BetterSkinned\bin\x86\Debug\Content\victoria_0.xnb
+F:\GitHub\Game-Board\Solutions\SkinnedSample\BetterSkinned\bin\x86\Debug\Content\victoria_1.xnb
+F:\GitHub\Game-Board\Solutions\SkinnedSample\BetterSkinned\bin\x86\Debug\BetterSkinned.exe
+F:\GitHub\Game-Board\Solutions\SkinnedSample\BetterSkinned\bin\x86\Debug\BetterSkinned.pdb
+F:\GitHub\Game-Board\Solutions\SkinnedSample\BetterSkinned\bin\x86\Debug\XnaAux.dll
+F:\GitHub\Game-Board\Solutions\SkinnedSample\BetterSkinned\bin\x86\Debug\XnaAux.pdb
+F:\GitHub\Game-Board\Solutions\SkinnedSample\BetterSkinned\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\GitHub\Game-Board\Solutions\SkinnedSample\BetterSkinned\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\GitHub\Game-Board\Solutions\SkinnedSample\BetterSkinned\obj\x86\Debug\BetterSkinned.exe
+F:\GitHub\Game-Board\Solutions\SkinnedSample\BetterSkinned\obj\x86\Debug\BetterSkinned.pdb
