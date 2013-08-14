@@ -4,3 +4,9 @@
 
 # 
 *.bak
+
+# vs debug file
+*.pdb
+
+# vs build outputs
+**/bin/
