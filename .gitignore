@@ -9,4 +9,12 @@
 *.pdb
 
 # vs build outputs
-**/bin/
+**/obj/Debug/
+**/obj/Release/
+**/obj/*/Debug/
+**/obj/*/Release/
+
+**/bin/Debug/
+**/bin/Release/
+**/bin/*/Debug/
+**/bin/*/Release/
